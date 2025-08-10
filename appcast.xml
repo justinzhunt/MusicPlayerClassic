@@ -3,12 +3,12 @@
     <channel>
         <title>Music Player Classic</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Sun, 10 Aug 2025 15:07:12 -0500</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>0.4.1</title>
+            <pubDate>Sun, 10 Aug 2025 15:26:15 -0500</pubDate>
+            <sparkle:version>041</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/justinzhunt/MusicPlayerClassic/releases/download/prod/Music.Player.Classic.zip" length="3049192" type="application/octet-stream" sparkle:edSignature="beEDdub/1wT7s70uRXtx93KbQNyiDkkmW97/m3+w8oprISftd3RF6AojZyN7fXOtoxwTsBb0Ted7B57ZHt9sBA=="/>
+            <enclosure url="https://github.com/justinzhunt/MusicPlayerClassic/releases/download/prod/Music.Player.Classic.zip" length="3049207" type="application/octet-stream" sparkle:edSignature="bPrnBILbt5Je1YqKYRHn87aVdhjwKv0IklkoexCQTSseSJ35HLCvScAM84pHTKR6wmAYz81nV6w1zgBX+RO/Cg=="/>
         </item>
     </channel>
 </rss>
