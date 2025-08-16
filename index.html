@@ -6,11 +6,26 @@
 <title>Music Player Classic</title>
 
 <style>
-    @media (max-width: 768px) {
-        img {
-            width: 90%; /* Wider on smaller screens */
-        }
-    }
+    .responsive-image {
+  width: 100%;
+  height: auto;
+}
+
+/* Desktop styles */
+@media (min-width: 768px) {
+  .responsive-image {
+    max-width: 800px;
+    width: 60%;
+  }
+}
+
+/* Mobile styles */
+@media (max-width: 767px) {
+  .responsive-image {
+    max-width: 100%;
+    width: 90%;
+  }
+}
 </style>
 
 
